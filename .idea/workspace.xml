@@ -4,14 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="91a2d355-3baf-4eff-8f43-781a00cb3ec1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Seminar_1/cw_1/Ex_1.java" afterDir="false" />
+    <list default="true" id="91a2d355-3baf-4eff-8f43-781a00cb3ec1" name="Changes" comment="added Seminar_1 and Homework_1">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Homework_1/hw_1/Ex_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Homework_1/hw_2/Ex_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Homework_1/hw_3/Ex_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Seminar_1/cw_2/Ex_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Seminar_1/cw_3/Ex_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Seminar_1/cw_4/Ex_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Seminar_1/cw_5/Ex_5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Seminar_1/cw_1/Ex_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Seminar_1/cw_1/Ex_1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,13 +49,65 @@
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
-  <component name="RunManager">
-    <configuration name="Ex_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Seminar_1.cw_1.Ex_1" />
+  <component name="RunManager" selected="Application.org.example.Homework_1.hw_3.Ex_3">
+    <configuration name="Ex_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Seminar_1.cw_4.Ex_4" />
       <module name="Java_Intro" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.Seminar_1.cw_1.*" />
+          <option name="PATTERN" value="org.example.Seminar_1.cw_4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Seminar_1.cw_5.Ex_5" />
+      <module name="Java_Intro" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.Seminar_1.cw_5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="org.example.Homework_1.hw_1.Ex_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Homework_1.hw_1.Ex_1" />
+      <module name="Java_Intro" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.Homework_1.hw_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="org.example.Homework_1.hw_2.Ex_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Homework_1.hw_2.Ex_2" />
+      <module name="Java_Intro" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.Homework_1.hw_2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="org.example.Homework_1.hw_3.Ex_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Homework_1.hw_3.Ex_3" />
+      <module name="Java_Intro" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.Homework_1.hw_3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -63,7 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Ex_1" />
+        <item itemvalue="Application.org.example.Homework_1.hw_3.Ex_3" />
+        <item itemvalue="Application.org.example.Homework_1.hw_2.Ex_2" />
+        <item itemvalue="Application.org.example.Homework_1.hw_1.Ex_1" />
+        <item itemvalue="Application.Ex_5" />
+        <item itemvalue="Application.Ex_4" />
       </list>
     </recent_temporary>
   </component>
@@ -76,6 +134,14 @@
       <option name="presentableId" value="Default" />
       <updated>1677920796887</updated>
     </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <created>1677922315853</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1677922315853</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -88,5 +154,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit" />
+    <MESSAGE value="added Seminar_1 and Homework_1" />
+    <option name="LAST_COMMIT_MESSAGE" value="added Seminar_1 and Homework_1" />
   </component>
 </project>
