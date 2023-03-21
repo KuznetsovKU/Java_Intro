@@ -5,14 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="91a2d355-3baf-4eff-8f43-781a00cb3ec1" name="Changes" comment="added Seminar_3 and Homework_3">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Homework4/Hw1/Ex1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Homework4/Hw2/Ex2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Seminar_4/Cw5/Ex5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Seminar_4/Cw_2/Ex_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Seminar_4/Cw_4/Ex4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Seminar_4/cw1/Ex1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Seminar_4/cw3/Ex3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Homework5/Hw1/Ex1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Homework5/Hw2/Ex2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Seminar5/Cw1/Ex1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Seminar5/Cw3/Ex3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,16 +35,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.Ex1">
+}</component>
+  <component name="RunManager" selected="Application.org.example.Homework5.Hw2.Ex2">
     <configuration name="Ex1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.Homework4.Hw1.Ex1" />
       <module name="Java_Intro" />
@@ -62,25 +58,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Homework4.Hw2.Ex2" />
-      <module name="Java_Intro" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.Homework4.Hw2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Ex3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Seminar_4.cw3.Ex3" />
+      <option name="MAIN_CLASS_NAME" value="org.example.Seminar5.Cw3.Ex3" />
       <module name="Java_Intro" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.Seminar_4.cw3.*" />
+          <option name="PATTERN" value="org.example.Seminar5.Cw3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,12 +71,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Seminar_4.Cw_4.Ex4" />
+    <configuration name="org.example.Homework5.Hw1.Ex1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Homework5.Hw1.Ex1" />
       <module name="Java_Intro" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.Seminar_4.Cw_4.*" />
+          <option name="PATTERN" value="org.example.Homework5.Hw1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,12 +84,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Seminar_4.Cw5.Ex5" />
+    <configuration name="org.example.Homework5.Hw2.Ex2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Homework5.Hw2.Ex2" />
       <module name="Java_Intro" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.Seminar_4.Cw5.*" />
+          <option name="PATTERN" value="org.example.Homework5.Hw2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="org.example.Seminar5.Cw1.Ex1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Seminar5.Cw1.Ex1" />
+      <module name="Java_Intro" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.Seminar5.Cw1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Ex1" />
-        <item itemvalue="Application.Ex2" />
-        <item itemvalue="Application.Ex5" />
-        <item itemvalue="Application.Ex4" />
+        <item itemvalue="Application.org.example.Homework5.Hw2.Ex2" />
+        <item itemvalue="Application.org.example.Homework5.Hw1.Ex1" />
         <item itemvalue="Application.Ex3" />
+        <item itemvalue="Application.org.example.Seminar5.Cw1.Ex1" />
+        <item itemvalue="Application.Ex1" />
       </list>
     </recent_temporary>
   </component>
